@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-    Basic dictionary 
+    Basic dictionary
 """
 
 BaseCashing = __import__('base_caching').BaseCaching
@@ -8,7 +8,7 @@ BaseCashing = __import__('base_caching').BaseCaching
 
 class BasicCache(BaseCashing):
     """
-        Basic dictionary 
+        Basic dictionary
     """
 
     def put(self, key, item):
